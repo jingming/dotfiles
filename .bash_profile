@@ -5,4 +5,4 @@ source ~/dotfiles/init/prompt.sh
 source ~/Dropbox/dotfiles/exports.sh
 
 # init z! (https://github.com/rupa/z)
-. ~/z.sh
+. ~/dotfiles/init/z.sh
