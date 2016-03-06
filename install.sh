@@ -41,3 +41,9 @@ brew install noti
 echo 'Installing ag'
 echo '--brew install the_silver_searcher'
 brew install the_silver_searcher
+
+# install nativefier
+# https://www.npmjs.com/package/nativefier
+echo 'Installing nativefier'
+echo '--npm install -g nativefier'
+npm install -g nativefier
