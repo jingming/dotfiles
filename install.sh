@@ -6,6 +6,18 @@ echo 'Installing brew'
 echo '--/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"'
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+# install node
+# https://nodejs.org/en/
+echo 'Installing node'
+echo '--brew install node'
+brew install node
+
+# install maven
+# https://maven.apache.org/
+echo 'Installing maven'
+echo '--brew install maven'
+brew install maven
+
 # install diff-so-fancy 
 # https://github.com/so-fancy/diff-so-fancy
 echo 'Installing diff-so-fancy'
