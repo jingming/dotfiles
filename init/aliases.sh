@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Open specified files in Sublime Text
-alias s='open -a "Sublime Text 2"'
+alias s='open -a "Sublime Text"'
 
 # Color ls
 alias ls="command ls -G"
