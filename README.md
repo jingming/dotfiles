@@ -13,6 +13,7 @@
 
 ## Applications
 
+* [Dash](https://kapeli.com/dash)
 * [Dropbox](https://www.dropbox.com/)
 * [Flux](https://justgetflux.com/)
 * [iTerm2](https://www.iterm2.com/)
