@@ -22,5 +22,8 @@ alias gc='git commit -m' # requires you to type a commit message
 alias gp='git push'
 alias grm='git rm $(git ls-files --deleted)'
 
+# Python
+alias activate='source venv/bin/activate'
+
 # Enable aliases to be sudo’ed
 alias sudo='sudo '
