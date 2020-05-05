@@ -1,0 +1,4 @@
+source ~/.dotfiles/init/aliases.sh
+
+source ~/Dropbox/dotfiles/exports.sh
+
