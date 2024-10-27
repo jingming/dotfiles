@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Open specified files in Sublime Text
-alias s='open -a "Sublime Text"'
+alias s='open -a "Visual Studio Code"'
 
 # Color ls
 alias ls="command ls -G"
@@ -24,6 +24,11 @@ alias grm='git rm $(git ls-files --deleted)'
 
 # Python
 alias activate='source venv/bin/activate'
+alias python='python3'
+alias pip='pip3'
 
 # Enable aliases to be sudo’ed
 alias sudo='sudo '
+
+# Restart sound
+alias resound="sudo kill -9 `ps ax|grep 'coreaudio[a-z]' | awk '{print $1}'`"
